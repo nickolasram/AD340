@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="clint_title">Clint</string>
+    <string name="clint_desc">Ballpoint Pen Sketch - 2020</string>
+    <string name="animals_title">Three Pets</string>
+    <string name="animals_desc">Digital Illustration - 2021</string>
+    <string name="beams_title">Beam</string>
+    <string name="beams_desc">Photography - 2022</string>
+</resources>
